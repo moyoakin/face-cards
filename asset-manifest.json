@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/face-cards/static/css/main.e6e789dc.chunk.css",
+    "main.js": "/face-cards/static/js/main.17667982.chunk.js",
+    "main.js.map": "/face-cards/static/js/main.17667982.chunk.js.map",
+    "runtime-main.js": "/face-cards/static/js/runtime-main.0eae0a84.js",
+    "runtime-main.js.map": "/face-cards/static/js/runtime-main.0eae0a84.js.map",
+    "static/js/2.3ac1c0be.chunk.js": "/face-cards/static/js/2.3ac1c0be.chunk.js",
+    "static/js/2.3ac1c0be.chunk.js.map": "/face-cards/static/js/2.3ac1c0be.chunk.js.map",
+    "static/js/3.9e13098c.chunk.js": "/face-cards/static/js/3.9e13098c.chunk.js",
+    "static/js/3.9e13098c.chunk.js.map": "/face-cards/static/js/3.9e13098c.chunk.js.map",
+    "index.html": "/face-cards/index.html",
+    "static/css/main.e6e789dc.chunk.css.map": "/face-cards/static/css/main.e6e789dc.chunk.css.map",
+    "static/js/2.3ac1c0be.chunk.js.LICENSE.txt": "/face-cards/static/js/2.3ac1c0be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0eae0a84.js",
+    "static/js/2.3ac1c0be.chunk.js",
+    "static/css/main.e6e789dc.chunk.css",
+    "static/js/main.17667982.chunk.js"
+  ]
+}
